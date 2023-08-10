@@ -1,8 +1,11 @@
 #include <stdio.h>
 /**
-  *main - to print out the message
-  *return: 0 if success
-  */
+ * main - entry point
+ *
+ * Description: prints out the exact message
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
